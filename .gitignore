@@ -1,0 +1,34 @@
+# =====================================================================
+# REGLAS DEL PROYECTO: BACKEND IA (Python / FastAPI)
+# =====================================================================
+
+# Entornos Virtuales (¡CRÍTICO! No subir las librerías instaladas)
+.venv/
+venv/
+ENV/
+env/
+/bin/
+/lib/
+/include/
+/pip-selfcheck.json
+
+# Caché de Ejecución y Compilación de Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Variables de Entorno y Secretos
+.env
+.env.local
+
+# Archivos de Datos / Datasets Pesados (Kaggle CSVs)
+# Si tus archivos .json o .csv de datos son muy grandes, descomenta la línea de abajo:
+# data/*.json
+# data/*.csv
+
+# Archivos del Sistema Operativo (Basura local de Mac)
+.DS_Store
+._*
