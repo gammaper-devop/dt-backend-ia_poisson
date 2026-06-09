@@ -49215,7 +49215,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2026-03-31,Australia,Curaçao,5,1,FIFA Series,Melbourne,Australia,FALSE
 2026-03-31,Kazakhstan,Comoros,1,0,FIFA Series,Astana,Kazakhstan,FALSE
 2006-06-01,Colombia,Costa Rica,3,1,Friendly,Bogota,Colombia,TRUE
-2026-06-01,Canada ,Uzbekistan,2,0,Friendly,Ontario,Canada,TRUE
+2026-06-01,Canada,Uzbekistan,2,0,Friendly,Ontario,Canada,TRUE
 2026-06-02,Croatia,Belgium,0,2,Friendly,Rijeka,Croatia,TRUE
 2026-06-02,Georgia,Romania,1,1,Friendly,Tbilisi,Georgia,TRUE
 2026-06-02,Morocco,Madagascar,4,0,Friendly,Rabat,Morocco,TRUE
@@ -49246,8 +49246,27 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2026-06-05,Indonesia,Oman,3,0,Friendly,Yakarta,Indonesia,TRUE
 2026-06-05,Paraguay,Nicaragua,4,0,Friendly,Asuncion,Paraguay,TRUE
 2026-06-05,Puerto Rico,Saudi Arabia,0,3,Friendly,Texas,United States,TRUE
-2026-06-05,Canada,Ireland,1,1,Friendly,Montreal,Canada,TRUE
+2026-06-05,Canada,Northern Ireland,1,1,Friendly,Montreal,Canada,TRUE
 2026-06-05,Haiti,Peru,1,2,Friendly,Miami Gardens,United States,TRUE
+2026-06-06,Portugal,Chile,2,1,Friendly,Lisboa,Portugal,TRUE
+2026-06-06,Romani,Wales,2,1,Friendly,Bucarest,Romania,TRUE
+2026-06-06,Albania,Luxembourg,0,1,Friendly,Tirana,Albania,TRUE
+2026-06-06,United States,Germany,1,2,Friendly,Illinois,United States,TRUE
+2026-06-06,Switzerland,Australia,1,1,Friendly,California,United States,TRUE
+2026-06-06,Panama,Bosnia and Herzegovina,1,1,Friendly,Saint Louis,United States,TRUE
+2026-06-06,Bolivia,Scotland,0,4,Friendly,New Jersey,United States,TRUE
+2026-06-06,Cape Verde,Bermuda,3,0,Friendly,Connecticut,United States,TRUE
+2026-06-06,Qatar,El Salvador,0,0,Friendly,Los Angeles,United States,TRUE
+2026-06-06,England,New Zealand,1,0,Friendly,Florida,United States,TRUE
+2026-06-06,Brazil,Egypt,2,1,Friendly,Ohio,United States,TRUE
+2026-06-06,Venezuela,Turkey,1,2,Friendly,Ohio,United States,TRUE
+2026-06-06,Argentina,Honduras,2,0,Friendly,Texas,United States,TRUE
+2026-06-06,Curaçao,Aruba,4,0,Friendly,Willemstad,United States,TRUE
+2026-06-08,Niger,Mauritania,0,1,Friendly,NA,NA,TRUE
+2026-06-08,Sri Lanka,Bhutan,4,1,Friendly,Colombo,Sri Lanka,TRUE
+2026-06-08,Netherlands,Uzbekistan,2,1,Friendly,New York,United States,TRUE
+2026-06-08,Spain,Peru,3,1,Friendly,Puebla,Mexico,TRUE
+2026-06-08,France,Northern Ireland,3,1,Friendly,Lille,France,TRUE
 2026-06-11,Mexico,South Africa,NA,NA,FIFA World Cup,Mexico City,Mexico,FALSE
 2026-06-11,South Korea,Czech Republic,NA,NA,FIFA World Cup,Zapopan,Mexico,TRUE
 2026-06-12,Canada,Bosnia and Herzegovina,NA,NA,FIFA World Cup,Toronto,Canada,FALSE
@@ -49316,7 +49335,5 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2026-06-26,Senegal,Iraq,NA,NA,FIFA World Cup,Toronto,Canada,TRUE
 2026-06-27,Algeria,Austria,NA,NA,FIFA World Cup,Kansas City,United States,TRUE
 2026-06-27,Jordan,Argentina,NA,NA,FIFA World Cup,Arlington,United States,TRUE
-2026-06-27,Colombia,Portugal,NA,NA,FIFA World Cup,Miami Gardens,United States,TRUE
-2026-06-27,DR Congo,Uzbekistan,NA,NA,FIFA World Cup,Atlanta,United States,TRUE
 2026-06-27,Panama,England,NA,NA,FIFA World Cup,East Rutherford,United States,TRUE
 2026-06-27,Croatia,Ghana,NA,NA,FIFA World Cup,Philadelphia,United States,TRUE
